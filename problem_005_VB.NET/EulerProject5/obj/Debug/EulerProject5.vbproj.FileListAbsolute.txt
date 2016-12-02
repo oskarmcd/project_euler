@@ -1,9 +1,0 @@
-C:\Users\Admin\AppData\Local\Temporary Projects\EulerProject5\bin\Debug\EulerProject5.exe.config
-C:\Users\Admin\AppData\Local\Temporary Projects\EulerProject5\bin\Debug\EulerProject5.exe
-C:\Users\Admin\AppData\Local\Temporary Projects\EulerProject5\bin\Debug\EulerProject5.pdb
-C:\Users\Admin\AppData\Local\Temporary Projects\EulerProject5\bin\Debug\EulerProject5.xml
-C:\Users\Admin\AppData\Local\Temporary Projects\EulerProject5\obj\Debug\EulerProject5.Resources.resources
-C:\Users\Admin\AppData\Local\Temporary Projects\EulerProject5\obj\Debug\EulerProject5.vbproj.GenerateResource.Cache
-C:\Users\Admin\AppData\Local\Temporary Projects\EulerProject5\obj\Debug\EulerProject5.exe
-C:\Users\Admin\AppData\Local\Temporary Projects\EulerProject5\obj\Debug\EulerProject5.xml
-C:\Users\Admin\AppData\Local\Temporary Projects\EulerProject5\obj\Debug\EulerProject5.pdb
